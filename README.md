@@ -1,2 +1,3 @@
 # Hello-World
- Git and Github training
+ Treinamento de Git e Github!
+ Repositório criado durante uma aula do Cursoemvideo.
